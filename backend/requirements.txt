@@ -1,0 +1,12 @@
+Flask
+flask-cors
+gunicorn
+openai
+requests
+matplotlib
+seaborn
+plotly
+numpy
+pandas
+wordcloud
+textstat
